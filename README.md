@@ -9,7 +9,7 @@
 
 Welcome to StevenBlock, the ultimate ad-blocking solution that ensures you enjoy a clutter-free online experience with frequent updates and robust performance, keeping you ahead in the fight against intrusive ads and malicious content. 
 
-[Main Repo](https://github.com/mikropsoft/stevenblock).
+[Main Repo](https://github.com/mikropsoft/stevenblock)
 
 ---
 
