@@ -1,15 +1,13 @@
 # 🚀 Introduction to the StevenBlock Module
 
-![Downloads](https://img.shields.io/github/downloads/mikropsoft/StevenBlock/total?color=green&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/mikropsoft/StevenBlock?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/mikropsoft/StevenBlock?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/StevenBlock/total?color=green&style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/Magisk-Modules-Alt-Repo/StevenBlock?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Magisk-Modules-Alt-Repo/StevenBlock?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Magisk](https://img.shields.io/badge/Magisk-8A2BE2?style=for-the-badge&logo=magisk&logoColor=white)
 ![Root](https://img.shields.io/badge/Root-ff0000?style=for-the-badge&logo=superuser&logoColor=white)
 
 Welcome to StevenBlock, the ultimate ad-blocking solution that ensures you enjoy a clutter-free online experience with frequent updates and robust performance, keeping you ahead in the fight against intrusive ads and malicious content. 
-
-[Main Repo](https://github.com/mikropsoft/stevenblock)
 
 ---
 
@@ -87,7 +85,7 @@ For any inquiries or support, feel free to contact me on [Telegram](https://t.me
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mikropsoft/StevenBlock&type=Date)](https://star-history.com/#mikropsoft/StevenBlock&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Magisk-Modules-Alt-Repo/StevenBlock&type=Date)](https://star-history.com/#Magisk-Modules-Alt-Repo/StevenBlock&Date)
 
 ---
 
