@@ -77,8 +77,7 @@ For any inquiries or support, feel free to contact me on [Telegram](https://t.me
 
 ## 🙌 Credits
 
-- **[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)** - Magisk Template
-- **[BlockAds](https://github.com/pantsufan/BlockAds)** - Providing The Some Necessary Files 
+- **[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)** - Magisk Template 
 - **[StevenBlack](https://github.com/StevenBlack/hosts)** - Hosts File Provider
 
 ---
