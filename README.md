@@ -77,15 +77,22 @@ For any inquiries or support, feel free to contact me on [Telegram](https://t.me
 
 ## 🙌 Credits
 
-- **[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)** - Magisk Template 
+- **[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)** - Magisk Template
 - **[StevenBlack](https://github.com/StevenBlack/hosts)** - Hosts File Provider
+
+---
+
+## 🏆 Repository Activities
+
+![Activities](https://repobeats.axiom.co/api/embed/359376e8fd59201ac45b1f13f73201c3be069b62.svg)
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Magisk-Modules-Alt-Repo/StevenBlock&type=Date)](https://star-history.com/#Magisk-Modules-Alt-Repo/StevenBlock&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Magisk-Modules-Alt-Repo/StevenBlock&type=Date)
 
 ---
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
+
