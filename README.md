@@ -1,8 +1,8 @@
 # 🛡️ StevenBlock: Your Digital Guardian Against Ads and Malware
 
-![Downloads](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/StevenBlock/total?color=green&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/Magisk-Modules-Alt-Repo/StevenBlock?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Magisk-Modules-Alt-Repo/StevenBlock?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/mikropsoft/StevenBlock/total?color=green&style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/mikropsoft/StevenBlock?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/mikropsoft/StevenBlock?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Magisk](https://img.shields.io/badge/Magisk-8A2BE2?style=for-the-badge&logo=magisk&logoColor=white)
 ![Root](https://img.shields.io/badge/Root-ff0000?style=for-the-badge&logo=superuser&logoColor=white)
@@ -24,7 +24,7 @@ Hey there, digital explorer! 👋 Ready to take control of your online experienc
 ## 📊 The Numbers Game: Domains We've Got Your Back On
 
 > [!WARNING]
-> Brace yourself: StevenBlock is like a bouncer for your device, keeping a watchful eye on 100,000 to 200,000 troublemakers (read: malware, ad, and spyware domains). And just like your favorite club's security, we're always updating our list to keep the riffraff out.
+> Brace yourself: StevenBlock is like a bouncer for your device, keeping a watchful eye on 100,000 to 500,000 troublemakers (read: malware, ad, and spyware domains). And just like your favorite club's security, we're always updating our list to keep the riffraff out.
 
 ## 🧠 Knowledge is Power: F.A.Q. Time!
 
@@ -70,7 +70,7 @@ Got questions? I'm just a [Telegram](https://t.me/microzort) message away!
 
 Huge shoutout to:
 - **[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)** for their awesome Magisk Template
-- **[StevenBlack](https://github.com/StevenBlack/hosts)** for being our hosts file guru - [1Hosts](https://github.com/badmojr/1Hosts) for an alternative hosts list.
+- **[hBlock]([https://github.com/StevenBlack/hosts](https://github.com/hectorm/hblock))** for being our hosts file guru
 
 ## 🏆 Watch Us Grow!
 
